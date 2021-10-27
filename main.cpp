@@ -10,7 +10,7 @@ int main() {
   cout << "Please enter the enter the amount of elements in the array:";
   cin >> num;
 
-  arr = (int *)malloc(num * sizeof(int));
+  arr = (int *)malloc(num * sizeof(int));//allocate heap memory
 
   cout << "\nPlease enter the element of the array:";
 
