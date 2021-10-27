@@ -1,5 +1,5 @@
 #include <iostream>
-#include <malloc.h>
+#include <malloc.h> //to use malloc function
 
 using namespace std;
 
