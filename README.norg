@@ -1,0 +1,18 @@
+@document.meta
+  title: README
+  description: 
+  author: bshaw
+  categories: 
+  created: 2021-10-27
+  version: 0.1
+@end
+#-*-mode: org -*-
+#+Startup: showall
+
+* Welcome to org mode
+  Welcome, and thank you for tryig org mode. Making outlines in org mode very simple. Its just texts, start typing
+* This is a headline, it's start with a star
+  A headline have two start, but a subheadline have two star.
+* Working with lists
+**Moving around in our headline
+**Moving around headlines
